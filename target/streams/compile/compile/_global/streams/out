@@ -1,0 +1,48 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/sal/Desktop/play-samples/play-java-forms-example/app/controllers/WidgetController.java:3:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Widget[0m
+[0m[[0m[31merror[0m] [0m[0m  location: package models[0m
+[0m[[0m[31merror[0m] [0m[0mmodels.Widget[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sal/Desktop/play-samples/play-java-forms-example/app/controllers/WidgetController.java:25:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class WidgetData[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.WidgetController[0m
+[0m[[0m[31merror[0m] [0m[0mWidgetData[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sal/Desktop/play-samples/play-java-forms-example/app/controllers/WidgetController.java:27:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Widget[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.WidgetController[0m
+[0m[[0m[31merror[0m] [0m[0mWidget[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sal/Desktop/play-samples/play-java-forms-example/app/controllers/WidgetController.java:33:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class WidgetData[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.WidgetController[0m
+[0m[[0m[31merror[0m] [0m[0mWidgetData[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sal/Desktop/play-samples/play-java-forms-example/app/controllers/WidgetController.java:36:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Widget[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.WidgetController[0m
+[0m[[0m[31merror[0m] [0m[0mWidget[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sal/Desktop/play-samples/play-java-forms-example/app/controllers/WidgetController.java:37:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Widget[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.WidgetController[0m
+[0m[[0m[31merror[0m] [0m[0mWidget[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sal/Desktop/play-samples/play-java-forms-example/app/controllers/WidgetController.java:38:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Widget[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.WidgetController[0m
+[0m[[0m[31merror[0m] [0m[0mWidget[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sal/Desktop/play-samples/play-java-forms-example/app/controllers/WidgetController.java:47:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class listWidgets[0m
+[0m[[0m[31merror[0m] [0m[0m  location: package views.html[0m
+[0m[[0m[31merror[0m] [0m[0mviews.html.listWidgets[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sal/Desktop/play-samples/play-java-forms-example/app/controllers/WidgetController.java:51:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class WidgetData[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.WidgetController[0m
+[0m[[0m[31merror[0m] [0m[0mWidgetData[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sal/Desktop/play-samples/play-java-forms-example/app/controllers/WidgetController.java:55:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class listWidgets[0m
+[0m[[0m[31merror[0m] [0m[0m  location: package views.html[0m
+[0m[[0m[31merror[0m] [0m[0mviews.html.listWidgets[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sal/Desktop/play-samples/play-java-forms-example/app/controllers/WidgetController.java:57:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class WidgetData[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.WidgetController[0m
+[0m[[0m[31merror[0m] [0m[0mWidgetData[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sal/Desktop/play-samples/play-java-forms-example/app/controllers/WidgetController.java:58:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Widget[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.WidgetController[0m
+[0m[[0m[31merror[0m] [0m[0mWidget[0m
