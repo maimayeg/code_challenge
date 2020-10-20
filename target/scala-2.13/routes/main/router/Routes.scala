@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/Users/sal/Desktop/play-samples/play-java-forms-example/conf/routes
-// @DATE:Tue Oct 20 01:11:54 BST 2020
+// @SOURCE:/home/mai/git/repository/Scout24_code_challenge/conf/routes
+// @DATE:Tue Oct 20 11:34:46 CEST 2020
 
 package router
 

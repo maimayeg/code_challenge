@@ -55,8 +55,8 @@ Seq[Any](format.raw/*2.1*/("""
 
               /*
                   -- GENERATED --
-                  DATE: 2020-10-19T20:37:08.212213
-                  SOURCE: /Users/sal/Desktop/play-samples/play-java-forms-example/app/views/index.scala.html
+                  DATE: 2020-10-20T11:34:46.285987
+                  SOURCE: /home/mai/git/repository/Scout24_code_challenge/app/views/index.scala.html
                   HASH: ff9e8d7f7344064cdd070d1d51c70e840958a9cf
                   MATRIX: 900->1|996->4|1025->8|1056->31|1095->33|1126->38|1204->90|1218->96|1261->119|1290->122|1304->128|1347->151|1415->189
                   LINES: 27->1|32->2|33->3|33->3|33->3|34->4|36->6|36->6|36->6|36->6|36->6|36->6|41->11

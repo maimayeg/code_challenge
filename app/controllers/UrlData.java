@@ -15,12 +15,9 @@ public class UrlData {
     @Constraints.Required
     private String url;
 
-    // @Constraints.Required
     private String title;
     private Document doc;
     private String links;
-    // private Element element;
-    // private Elements elements;
 
 
     public UrlData() {
@@ -31,10 +28,9 @@ public class UrlData {
     }
 
     public void setUrl(String url) {
-        // callUrl(this.url);
         this.url = url;
     }
-    
+    //URL is passed from from and then used Jsoup to connect it and set the title as well
     public void callUrl(String url) {
         try {
             this.doc = Jsoup.connect(url).get();
@@ -45,6 +41,7 @@ public class UrlData {
         }
     }
 
+    //We check if it's not resolved, still doesn't work perfectly
     public String callLink(String url) {
         try {
             Document link = new Document("");
@@ -62,15 +59,14 @@ public class UrlData {
     }
 
     public String getTitle() {
-        // return title;
         callUrl(this.url);
         return this.title;
     }
 
+    //get all links from the loaded documents and return then as one text and check also if they're resolved or not
     public String getLinks() {
         Elements links = this.doc.select("a[href]");
         int length = links.size();
-        // String[] urls = new String [length];
         String urls = "";
 
         for (int i = 0; i < length+1; i++) {
@@ -85,10 +81,6 @@ public class UrlData {
         this.links = urls;
         return urls;
     }
-
-    // public String setLinks() {
-    //     return Elements links = doc.select("a[href]"); 
-    // }
 
     public void setTitle(String title) {
         this.title = title;
